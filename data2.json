@@ -1,0 +1,38 @@
+{
+"[ajout" : {
+    "workbench.colorTheme": "Default Dark+",
+    "editor.accessibilitySupport": "off"
+},
+
+"[dockercompose]":  {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced"
+},
+
+
+"[dockerfile]":  {
+    "editor.quickSuggestions": {
+            "strings": true
+    }
+},
+
+"[git-commit]":  {
+    "editor.rulers": [
+            72
+    ],
+    "workbench.editor.restoreViewState": false
+},
+
+"[git-rebase]":  {
+    "workbench.editor.restoreViewState": false
+},
+
+"[go]":  {
+    "editor.insertSpaces": false
+},
+
+"[handlebars]":  {
+    "editor.suggest.insertMode": "replace"
+}
+}

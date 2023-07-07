@@ -1,0 +1,15 @@
+div {
+  border: 20px;
+  border-color: brown;
+  background-color: azure;
+}
+#titre {
+  border-bottom-right-radius: 15px;
+  text-align: center;
+  color: rgb(123, 0, 255);
+}
+#ressource {
+  border-bottom-right-radius: 15px;
+  text-align: justify;
+  color: rgb(226, 43, 223);
+}
