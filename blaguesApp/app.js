@@ -10,4 +10,4 @@ fetch("https://api.blablagues.net")
     console.log(ressource);
   })
   .catch((e) => console.log("ERREUR : " + e))
-  .finally(() => console.log("Fin du traitement"));
+  .finally(() => console.log("Fin du traitement !"));
